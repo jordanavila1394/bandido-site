@@ -352,7 +352,7 @@ a.btn-customized {
   border: 0;
   border-radius: 4px;
   font-size: 16px;
-  font-weight: 300;
+  font-weight: 500;
   color: #fff;
   box-shadow: none;
 }
@@ -380,7 +380,7 @@ a.btn-customized-2 {
   border: 0;
   border-radius: 4px;
   font-size: 16px;
-  font-weight: 300;
+  font-weight: 500;
   color: #555;
   box-shadow: none;
 }
@@ -409,7 +409,7 @@ a.btn-customized-3 {
   border: 0;
   border-radius: 4px;
   font-size: 16px;
-  font-weight: 300;
+  font-weight: 500;
   color: #fff;
   box-shadow: none;
 }
@@ -444,7 +444,7 @@ a.btn-customized-4 {
   border: 0;
   border-radius: 50%;
   font-size: 16px;
-  font-weight: 300;
+  font-weight: 500;
   color: #fff;
   box-shadow: none;
   text-indent: -999999px;
@@ -756,7 +756,7 @@ a.btn-customized-4.btn-customized-light.btn.btn-primary:not(:disabled):not(.disa
   border-radius: 4px;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
-  font-weight: 300;
+  font-weight: 500;
   color: #fff;
   box-shadow: none;
 }
