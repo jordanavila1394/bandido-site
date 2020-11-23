@@ -136,6 +136,7 @@ img {
 
 .sidebar ul li a {
   display: block;
+  font-size: 1.7rem;
   padding: 10px 20px;
   border: 0;
   color: #fff;
